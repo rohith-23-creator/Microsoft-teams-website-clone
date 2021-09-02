@@ -667,6 +667,10 @@ section.chat {
   .chat-links {
     display: none;
   }
+   a.chat-btn-primary {
+    width: 100%;
+    padding: 0.5rem 3rem;
+  }
 }
 
 section.get-started {
