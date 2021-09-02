@@ -592,7 +592,6 @@ section.chat {
 
 .chat-sub {
   display: flex;
-  /* width: 65%; */
   margin: auto;
   padding: 3rem;
   justify-content: center;
